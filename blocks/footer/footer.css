@@ -72,8 +72,3 @@
   opacity: 0.25;
   transition: 0.5s;
 }
-.footer__column-links:hover {
-  filter: alpha(opacity=25);
-  opacity: 0.25;
-  transition: 0.5s;
-}
