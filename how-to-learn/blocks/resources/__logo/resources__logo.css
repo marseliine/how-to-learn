@@ -1,0 +1,9 @@
+.resources__logo {
+  width: 270px;
+  height: 38px;
+}
+.resources__logo:hover {
+  filter: alpha(opacity=25);
+  opacity: 0.25;
+  transition: 0.5s;
+}
