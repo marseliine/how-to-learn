@@ -7,6 +7,4 @@
   position: absolute;
   right: 0;
   z-index: 1;
-  animation: rotation 20s linear infinite;
-  overflow: hidden;
 }
